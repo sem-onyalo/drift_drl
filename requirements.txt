@@ -1,10 +1,7 @@
-The codes are tested based on the following environments:
-python 3.5.5
-networkx 2.3
-numpy 1.15.2
-pygame 1.9.6
-keras 2.2.3
-pytorch 1.1.0
-tensorflow 1.10.0
-pandas 0.23.4
-
+networkx==2.3
+numpy==1.15.2
+pygame==1.9.6
+keras==2.2.3
+torch==1.1.0
+tensorflow==1.10.0
+pandas==0.23.4
