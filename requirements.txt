@@ -3,4 +3,5 @@ numpy==1.15.2
 pygame==1.9.6
 torch==1.1.0
 pandas==0.23.4
-tensorboardX==1.9
+protobuf==3.8.0
+tensorboardX==2.1
